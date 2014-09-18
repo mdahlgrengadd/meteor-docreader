@@ -1,0 +1,39 @@
+{
+  "meteor": {},
+  "dependencies": {
+    "basePackages": {
+      "meteor-file": {
+        "path": "../meteor-packages/meteor-file"
+      },
+      "meteor-my-style-pkg": {
+        "path": "../meteor-packages/meteor-my-style-pkg"
+      },
+      "meteor-rangy": {
+        "path": "../meteor-packages/meteor-rangy"
+      },
+      "graphicsmagick": {},
+      "masonrify": {}
+    },
+    "packages": {
+      "meteor-file": {
+        "path": "../meteor-packages/meteor-file"
+      },
+      "meteor-my-style-pkg": {
+        "path": "../meteor-packages/meteor-my-style-pkg"
+      },
+      "meteor-rangy": {
+        "path": "../meteor-packages/meteor-rangy"
+      },
+      "graphicsmagick": {
+        "git": "https://github.com/ewindso/meteor-graphicsmagick.git",
+        "tag": "v1.12.2",
+        "commit": "795dcb78be6d2b493a547073f98c967e284248e0"
+      },
+      "masonrify": {
+        "git": "https://github.com/voodoohop/meteor-masonrify.git",
+        "tag": "v0.0.3",
+        "commit": "e7a5e71a4193bd68a7bae4c250931147659b5dcb"
+      }
+    }
+  }
+}

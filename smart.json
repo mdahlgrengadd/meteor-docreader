@@ -1,0 +1,16 @@
+{
+  "packages": {
+    "meteor-file": {
+      "path": "../meteor-packages/meteor-file"
+    },
+    "meteor-my-style-pkg": {
+      "path": "../meteor-packages/meteor-my-style-pkg"
+    },
+      "meteor-rangy": {
+      "path": "../meteor-packages/meteor-rangy"
+    },
+
+    "graphicsmagick": {},
+    "masonrify": {}
+  }
+}
